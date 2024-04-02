@@ -1,0 +1,16 @@
+.faq_section {
+    margin: 2rem 0;
+    padding: 1rem;
+}
+
+.faq_section>h1 {
+    text-align: center;
+    margin: 1rem 0;
+}
+
+.container {
+    max-width: 1300px;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+    padding: 2rem;
+}
